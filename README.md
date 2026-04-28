@@ -2,7 +2,8 @@
 A log of my practical journey in mastering hardware-software integration. This repository contains assignments and experiments focused on bridging the gap between silicon and software.
 
  
-** Core Objectives & Focus Areas** :
+Core Objectives & Focus Areas:
+
 **Architecture** : Implementing Event-Driven flows and Finite State Machines (FSM).
 
 **Hardware Interaction** : Interfacing directly with microcontrollers, manipulating registers, and handling communication protocols (UART, I2C, SPI).
